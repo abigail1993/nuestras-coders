@@ -1,0 +1,32 @@
+h1 {
+  font-family: Courier;
+}
+
+article > section > p{
+  position: absolute;
+  top: 480px;
+}
+
+article > section > img {
+  position: relative;
+}
+
+section {
+  display: inline-block;
+   width: 15%;
+   font-family: sans-serif;
+   margin: 10px;
+
+}
+
+section > img {
+  position: relative;
+}
+
+section > p {
+  color: white;
+  position: absolute;
+  top: 260px;
+  display: block;
+  padding-left: 70px;
+}
